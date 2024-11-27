@@ -1,4 +1,4 @@
-# Jarvy - AI Assistant - Backend
+# Jarvy - AI Assistant - Frontend
 
 Jarvy is a dynamic AI assistant powered by OpenAI's GPT-4, integrated with various tools to assist users in multiple domains. The system allows users to interact through text and voice, providing personalized responses based on conversation history, user notes, weather updates, and more. It stores and retrieves conversation data for improved context across interactions.
 
